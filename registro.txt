@@ -1,0 +1,24 @@
+CREACION DE TICKET
+-date
+-responsable
+-cliente
+-proyecto
+-sites
+  -ubicacion
+  -lista de tareas
+  -name
+
+DASHBOARD
+lista de tickets 
+  resaltar ticket si la fecha del ticket coincide con la fecha de hoy
+  boton con ver ticket
+
+TICKET
+mapa con los sites y marcador con la posicion actual y encajar la ubicaicon con los sites
+  sidebar con los sites pendientes y al dar click su kilometraje estimado y tiempo estimado
+lista con sites que son dropdowns
+  tareas con checkbox
+
+DEPOSITO DE INFO
+-tabla historial con acciones DE SITE divididas por TRABAJO
+
